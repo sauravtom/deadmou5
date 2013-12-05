@@ -1,0 +1,13 @@
+C:\Users\Skt\Desktop\deadmou5\bin\Debug\GlobalHookDemo.XML
+C:\Users\Skt\Desktop\deadmou5\bin\Debug\GlobalHookDemo.exe
+C:\Users\Skt\Desktop\deadmou5\bin\Debug\GlobalHookDemo.pdb
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.csprojResolveAssemblyReference.cache
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.exe
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.pdb
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.Properties.Resources.resources
+C:\Users\Skt\Desktop\deadmou5\bin\Debug\GlobalHookDemo.exe.manifest
+C:\Users\Skt\Desktop\deadmou5\bin\Debug\GlobalHookDemo.application
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.exe.manifest
+C:\Users\Skt\Desktop\deadmou5\obj\Debug\GlobalHookDemo.application
